@@ -1,4 +1,6 @@
-venv/
+git remote add origin https://github.com/flash-5151/logistics-transit.git
+git branch -M main
+git push -u origin mainvenv/
 __pycache__/
 *.pyc
 .env
